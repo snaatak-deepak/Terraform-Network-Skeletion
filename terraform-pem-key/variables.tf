@@ -20,7 +20,7 @@ variable "vpc_tags" {
   default = {
     Name        = "dev-vpc"
     Enviroment  = "dev"
-    Owner       = "abhishek"
+    Owner       = "aryan"
   }
 }
 
